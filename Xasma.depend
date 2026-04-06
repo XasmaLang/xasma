@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1775499473 source:c:\users\zohan\onedrive\documents\xasma\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"apis/lexers/xasma.h"
+
+1775501757 c:\users\zohan\onedrive\documents\xasma\apis\lexers\xasma.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
